@@ -1,0 +1,47 @@
+[
+    {
+        "_id" : 1,
+        "subject": "Hindi"
+    },
+
+    {
+        "_id" : 2,
+        "subject" : "English"
+    },
+
+     {
+        "_id" : 3,
+        "subject" : "Science"
+    },
+     {
+        "_id" : 4,
+        "subject" : "Mathematics"
+    },
+     {
+        "_id" : 5,
+        "subject" : "Art"
+    },
+    
+
+     {
+        "_id" : 6,
+        "subject" : "History"
+    },
+      {
+        "_id" : 7,
+        "subject" : "Computer"
+    },
+      {
+        "_id" : 8,
+        "subject" : "Sanskrit"
+    },
+      {
+        "_id" : 9,
+        "subject" : "Urdu"
+    },
+      {
+        "_id" : 10,
+        "subject" : "Geography"
+    }
+    
+]

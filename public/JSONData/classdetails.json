@@ -1,0 +1,698 @@
+[
+  {
+    "_id": 1,
+    "class": "LKG",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Anjali Srivastava",
+        "TeacherPhone": "9876543219"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Rahul Sharma",
+        "TeacherPhone": "9876543210"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876545310 "
+      },
+      {
+        "Subject": "EVS",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Drawing",
+        "Teacher": "Neha Gupta",
+        "TeacherPhone": "9876543213"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Vikas Tiwari",
+        "TeacherPhone": "9876543216"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 1000,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 600,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 200,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "class": "UKG",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Rahul Sharma",
+        "TeacherPhone": "9876543210"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "EVS",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Drawing",
+        "Teacher": "Neha Gupta",
+        "TeacherPhone": "9876543213"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Vikas Tiwari",
+        "TeacherPhone": "9876543216"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 1200,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 700,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 250,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "class": "1st",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Anjali Srivastava",
+        "TeacherPhone": "9876543219"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Manish Kumar",
+        "TeacherPhone": "9876543218"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "EVS",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Drawing",
+        "Teacher": "Neha Gupta",
+        "TeacherPhone": "9876543213"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Vikas Tiwari",
+        "TeacherPhone": "9876543216"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 1500,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 900,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 300,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "class": "2nd",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Neha Gupta",
+        "TeacherPhone": "9876543213"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Rahul Sharma",
+        "TeacherPhone": "9876543210"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "EVS",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Drawing",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Ankit Mishra",
+        "TeacherPhone": "9876543214"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 1600,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 1000,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 350,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "class": "3rd",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Rahul Sharma",
+        "TeacherPhone": "9876543210"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Manish Kumar",
+        "TeacherPhone": "9876543218"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "Science",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Social Studies",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Ankit Mishra",
+        "TeacherPhone": "9876543214"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 1800,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 1200,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 400,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "class": "4th",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Manish Kumar",
+        "TeacherPhone": "9876543218"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Anjali Srivastava",
+        "TeacherPhone": "9876543219"
+      },
+      {
+        "Subject": "Science",
+        "Teacher": "Vikas Tiwari",
+        "TeacherPhone": "9876543216"
+      },
+      {
+        "Subject": "Social Studies",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Ankit Mishra",
+        "TeacherPhone": "9876543214"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 2000,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 1400,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 450,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "class": "5th",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Rahul Sharma",
+        "TeacherPhone": "9876543210"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Vikas Tiwari",
+        "TeacherPhone": "9876543216"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "Science",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Social Studies",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Ankit Mishra",
+        "TeacherPhone": "9876543214"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 2200,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 1600,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 500,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "class": "6th",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Anjali Srivastava",
+        "TeacherPhone": "9876543219"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Manish Kumar",
+        "TeacherPhone": "9876543218"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "Science",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Social Studies",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Vikas Tiwari",
+        "TeacherPhone": "9876543216"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 2500,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 1800,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 600,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "class": "7th",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Rahul Sharma",
+        "TeacherPhone": "9876543210"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Manish Kumar",
+        "TeacherPhone": "9876543218"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "Science",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Social Studies",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Ankit Mishra",
+        "TeacherPhone": "9876543214"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 2800,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 2000,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 700,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "class": "8th",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Anjali Srivastava",
+        "TeacherPhone": "9876543219"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Rahul Sharma",
+        "TeacherPhone": "9876543210"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "Science",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Social Studies",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Vikas Tiwari",
+        "TeacherPhone": "9876543216"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 3000,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 2200,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 800,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "class": "9th",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Rahul Sharma",
+        "TeacherPhone": "9876543210"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Manish Kumar",
+        "TeacherPhone": "9876543218"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "Science",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Social Studies",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Ankit Mishra",
+        "TeacherPhone": "9876543214"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 3000,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 2200,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 800,
+        "PaymentType": "One Time"
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "class": "10th",
+    "Subjects": [
+      {
+        "Subject": "English",
+        "Teacher": "Anjali Srivastava",
+        "TeacherPhone": "9876543219"
+      },
+      {
+        "Subject": "Maths",
+        "Teacher": "Manish Kumar",
+        "TeacherPhone": "9876543218"
+      },
+      {
+        "Subject": "Hindi",
+        "Teacher": "Priya Singh",
+        "TeacherPhone": "9876543211"
+      },
+      {
+        "Subject": "Science",
+        "Teacher": "Amit Verma",
+        "TeacherPhone": "9876543212"
+      },
+      {
+        "Subject": "Social Studies",
+        "Teacher": "Shweta Singh",
+        "TeacherPhone": "9876543217"
+      },
+      {
+        "Subject": "Computer",
+        "Teacher": "Vikas Tiwari",
+        "TeacherPhone": "9876543216"
+      },
+      {
+        "Subject": "GK",
+        "Teacher": "Pooja Yadav",
+        "TeacherPhone": "9876543215"
+      }
+    ],
+    "fee": [
+      {
+        "FeeType": "Admission Fee",
+        "Amount": 3000,
+        "PaymentType": "One Time"
+      },
+      {
+        "FeeType": "Tuition Fee",
+        "Amount": 2200,
+        "PaymentType": "Monthly"
+      },
+      {
+        "FeeType": "Exam Fee",
+        "Amount": 800,
+        "PaymentType": "One Time"
+      }
+    ]
+  }
+]

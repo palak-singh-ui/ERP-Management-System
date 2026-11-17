@@ -1,0 +1,441 @@
+.collect-fee-page {
+  width: 100%;
+  min-height: 100%;
+  padding: 28px;
+  background: #f7f8fc;
+  color: #202b45;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+.collect-fee-page * {
+  box-sizing: border-box;
+}
+
+
+.collect-fee-eyebrow {
+  display: block;
+  margin-bottom: 9px;
+  color: darkred;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+}
+
+.collect-fee-heading h1 {
+  margin: 0;
+  color: black;
+  font-size: 29px;
+  font-weight: 750;
+  letter-spacing: -0.7px;
+}
+
+.collect-fee-heading p {
+  margin: 9px 0 0;
+  color: #858da2;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.collect-fee-search-card {
+  display: flex;
+  align-items: center;
+  gap: 17px;
+  width: 100%;
+  margin-bottom: 24px;
+  padding: 22px;
+  background: #ffffff;
+  border: 1px solid #eaedf4;
+  border-radius: 16px;
+    box-shadow: 0px 0px 6px rgb(250, 224, 224);
+ 
+}
+
+.collect-fee-search-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 13px;
+  background: #f0f1ff;
+  color: #6374e8;
+  font-size: 29px;
+}
+
+.collect-fee-search-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.collect-fee-search-content label {
+  display: block;
+  margin-bottom: 9px;
+  color: bla;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.collect-fee-search-input {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  padding: 12px 14px;
+  outline: none;
+  border: 1px solid lightcoral;
+  border-radius: 9px;
+  /* background: ; */
+  color: darkred;
+  font-size: 14px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.collect-fee-search-input::placeholder {
+  color: #a1a8b8;
+}
+
+
+.collect-fee-search-button {
+  align-self: flex-end;
+  min-height: 43px;
+  padding: 0 23px;
+  border: none;
+  border-radius: 9px;
+  background: darkred;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.collect-fee-search-button:hover {
+  background: black;
+  
+}
+
+.collect-fee-alert {
+  margin-bottom: 22px;
+  padding: 14px 17px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.collect-fee-alert-error {
+  border-color: #ffd6d6;
+  background: #fff2f2;
+  color: #c03939;
+}
+
+.collect-fee-alert-success {
+  border-color: #c9efdc;
+  background: #edfff5;
+  color: #18794e;
+}
+
+.collect-fee-empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 290px;
+  padding: 35px 22px;
+  border: 1px dashed darkred;
+  border-radius: 16px;
+  background: #ffffff;
+  text-align: center;
+}
+
+.collect-fee-empty-icon {
+  width: 60px;
+  height: 60px;
+  align-items: center;
+  margin-bottom: 15px;
+  border-radius: 20px;
+  background: rgb(250, 224, 224);
+  color: darkred;
+  font-size: 38px;
+}
+
+.collect-fee-empty-state h2 {
+  margin: 0 0 10px;
+  color: #26314a;
+  font-size: 19px;
+}
+
+.collect-fee-empty-state p {
+  max-width: 390px;
+  margin: 0;
+  color: #8a92a5;
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.collect-fee-profile {
+  overflow: hidden;
+  width: 100%;
+  border: 1px solid #e9ecf4;
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 5px 24px rgba(29, 42, 76, 0.04);
+}
+
+.collect-fee-profile-header {
+  display: flex;
+  align-items: center;
+  gap: 19px;
+  padding: 28px;
+  border-bottom: 1px solid #edf0f6;
+  background: linear-gradient(115deg, #ffffff 35%, #f5f6ff 100%);
+}
+
+.collect-fee-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 76px;
+  height: 76px;
+  flex-shrink: 0;
+  border: 4px solid lightcoral;
+  border-radius: 50%;
+  background:darkred;
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.collect-fee-profile-title {
+  flex: 1;
+  min-width: 0;
+}
+
+.collect-fee-profile-label {
+  display: block;
+  margin-bottom: 7px;
+  color: darkred;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.4px;
+}
+
+.collect-fee-profile-title h2 {
+  margin: 0;
+  color: black;
+  font-size: 23px;
+  font-weight: 750;
+  overflow-wrap: anywhere;
+}
+
+.collect-fee-profile-title p {
+  margin: 8px 0 0;
+  color: #858da2;
+  font-size: 13px;
+}
+
+.collect-fee-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 9px 12px;
+  border-radius: 30px;
+  background: #e9f9ef;
+  color: #248453;
+  font-size: 11px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.collect-fee-status::before {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #2ab56d;
+  content: "";
+}
+
+.collect-fee-section {
+  padding: 27px 28px 30px;
+  border-bottom: 1px solid #edf0f6;
+}
+
+.collect-fee-section-title {
+  position: relative;
+  margin: 0 0 24px;
+  padding-left: 13px;
+  color: #27324b;
+  font-size: 16px;
+  font-weight: 750;
+}
+
+.collect-fee-section-title::before {
+  position: absolute;
+  top: 2px;
+  bottom: 2px;
+  left: 0;
+  width: 4px;
+  border-radius: 5px;
+  background:  darkred;
+  content: "";
+}
+
+.collect-fee-info-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 25px 22px;
+}
+
+.collect-fee-info-item {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-width: 0;
+}
+
+.collect-fee-info-item span {
+  color: #9299aa;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.collect-fee-info-item strong {
+  color: #354059;
+  font-size: 13px;
+  font-weight: 650;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.collect-fee-payment-section {
+  padding: 28px;
+}
+
+.collect-fee-payment-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.collect-fee-field {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+}
+
+.collect-fee-field-full {
+  grid-column: 1 / -1;
+}
+
+.collect-fee-field label {
+  color: #36415a;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.collect-fee-field input,
+.collect-fee-field textarea {
+  display: block;
+  width: 100%;
+  padding: 13px 14px;
+  outline: none;
+  border: 1px solid #e1e5ef;
+  border-radius: 9px;
+  background: #fbfcff;
+  color: #27334b;
+  font-family: inherit;
+  font-size: 14px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.collect-fee-field input {
+  min-height: 45px;
+}
+
+.collect-fee-field textarea {
+  min-height: 95px;
+  resize: vertical;
+  line-height: 1.6;
+}
+
+.collect-fee-field input::placeholder,
+.collect-fee-field textarea::placeholder {
+  color: #a1a8b8;
+}
+
+.collect-fee-field input:focus,
+.collect-fee-field textarea:focus {
+  border-color: lightcoral;
+  /* box-shadow: 0 0 0 3px rgba(104, 121, 233, 0.1); */
+
+}
+
+.collect-fee-payment-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin-top: 26px;
+  padding-top: 23px;
+  border-top: 1px solid #edf0f6;
+}
+
+.collect-fee-due-summary {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.collect-fee-due-summary span {
+  color: #8a92a5;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.collect-fee-due-summary strong {
+  color: #27334b;
+  font-size: 25px;
+  font-weight: 750;
+  letter-spacing: -0.5px;
+  overflow-wrap: anywhere;
+}
+
+.collect-fee-submit-button {
+  min-height: 47px;
+  padding: 0 27px;
+  border: none;
+  border-radius: 10px;
+  background:  darkred;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 5px 12px rgba(97, 114, 232, 0.18);
+  transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+}
+
+.collect-fee-submit-button:hover {
+  background: black;
+
+  color:  white;
+
+}
+
+.collect-fee-submit-button:active {
+  transform: translateY(0);
+}
+
+
+.actionPay{
+  padding: 5px 10px;
+  border: 2px solid darkred;
+  border-radius: 10px;
+  color: darkred;
+  font-weight: 600;
+  font-size: 13px;
+  background-color: white;
+}

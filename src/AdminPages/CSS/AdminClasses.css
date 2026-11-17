@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.all-classes-header{
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+       box-shadow: 0px 0px 6px rgb(250, 224, 224);
+    padding: 10px 20px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.all-create-class{
+    background-color: darkred;
+    color: white;
+    border: none;
+    font-weight: 500;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.class-close-btn{
+   position: relative;
+   left: 280px;
+    background-color: darkred;
+    color: white;
+    padding: 5px 13px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.class-body input{
+     width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid;
+    outline: none;
+    font-size: 15px;
+    border-radius: 5px;
+
+}
+
+.sub-select{
+    width: 48%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    font-weight: 500;
+    border: 2px solid;
+    border-radius: 5px; 
+}
+
+.teach-select{
+    width: 48%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    font-weight: 500;
+    border: 2px solid;
+    border-radius: 5px; 
+}
+
+.add-more-btn{
+    padding: 10px;
+    width: 48%;
+    background-color: whitesmoke;
+    color: darkred;
+    border: none;
+    margin: 5px;
+    border-radius: 5px;
+    font-weight: 500;
+
+}
+
+.class-save-btn{
+    padding: 10px;
+    width: 50%;
+    background-color: whitesmoke;
+    color: darkred;
+    font-size: 17px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.all-classes-table{
+width: 100%;
+margin-top: 50px;
+text-align: center;
+}
+
+
+.view-table-modal{
+    text-align: center;
+    margin-top: 50px;
+}
